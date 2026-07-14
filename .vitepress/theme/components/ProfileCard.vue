@@ -18,14 +18,14 @@ const tags = computed(() => new Set(posts.flatMap((post) => post.tags)).size)
           <strong>{{ posts.length }}</strong>
           <span>文章</span>
         </a>
-        <div>
+        <a href="/articles#categories">
           <strong>{{ categories }}</strong>
           <span>分类</span>
-        </div>
-        <div>
+        </a>
+        <a href="/articles#tags">
           <strong>{{ tags }}</strong>
           <span>标签</span>
-        </div>
+        </a>
       </div>
 
       <a class="profile-github" href="https://github.com/awenaw/wiki" target="_blank" rel="noreferrer">
