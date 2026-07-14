@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'zh-CN',
   title: 'Wiki',
-  description: '个人 Markdown 笔记',
+  description: 'Awen 的个人知识库，记录技术、工具与日常思考',
   cleanUrls: true,
 
   themeConfig: {
@@ -30,7 +30,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '使用 VitePress 构建',
+      message: 'Keep learning. Keep building.',
+      copyright: '© 2026 Awen',
     },
   },
 })
