@@ -17,3 +17,12 @@ npm run docs:build
 ```
 
 构建结果位于 `.vitepress/dist`。
+
+## Cloudflare Workers
+
+Cloudflare Workers Builds 配置：
+
+```text
+构建命令：npm run docs:build
+部署命令：npm run docs:deploy
+```
