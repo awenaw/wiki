@@ -1,11 +1,11 @@
 ---
-title: 文章标题
+title: docker swarm 部署
 date: 2026-07-14
-description: 一句话介绍这篇文章
+description: docker swarm 部署.md
 category: 技术
 tags:
-  - Cloudflare
-  - VitePress
+  - docker
+  - 分布式
 ---
 
 ### 环境
