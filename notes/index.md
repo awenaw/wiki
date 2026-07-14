@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 笔记
 
 这里是笔记目录。以后可以在 `notes` 目录中直接添加 Markdown 文件。
